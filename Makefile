@@ -18,6 +18,8 @@ push:
 
 update: $(SIGS)
 	@repo-add ./archlinux/reach-it/os/x86_64/reach-it.db.tar.gz ./archlinux/reach-it/os/x86_64/*.pkg.tar.zst
+	@echo -n $(date +%s) > ./archlinux/lastupdate
+	@echo -n $(date +%s) > ./archlinux/lastsync
 
 %.pkg.tar.zst.sig: %.pkg.tar.zst
 	@gpg --default-key 40888039 --detach-sig $<

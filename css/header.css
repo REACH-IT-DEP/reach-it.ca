@@ -1,4 +1,4 @@
-#header
+div#header
 {
   display: block;
   width: 100%;
@@ -7,7 +7,7 @@
   background-color: blue;
 }
 
-#header-home
+div#header-home
 {
   display: inline-block;
   width: 192px;
@@ -16,7 +16,7 @@
   background-color: green;
 }
 
-#header-home-logo
+div#header-home-logo
 {
   display: inline-block;
   width: 48px;
@@ -25,7 +25,7 @@
   background-color: red;
 }
 
-#header-home-title
+div#header-home-title
 {
   display: inline-block;
   width: 144px;

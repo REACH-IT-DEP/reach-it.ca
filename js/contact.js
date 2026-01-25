@@ -1,4 +1,4 @@
-formContact()
+function formContact()
 {
   function formContactSubmit(event)
   {

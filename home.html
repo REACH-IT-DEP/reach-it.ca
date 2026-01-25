@@ -6,6 +6,14 @@
     <link rel="stylesheet" href="/css/header.css">
     <link rel="stylesheet" href="/css/content.css">
     <link rel="stylesheet" href="/css/footer.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="/js/contact.js"></script>
+    <script>
+      $(document).ready( function()
+      {
+        formContact();
+      });
+    </script>
   </head>
   <body>
     <div id="header">
@@ -22,6 +30,56 @@
       </div>
     </div>
     <div id="content">
+      <div id="content-form-contact">
+        <form action="mailto:ammunn@reach-it.ca" method="get">
+          <input id="content-form-contact-email" type="hidden" value="ammunn@reach-it.ca">
+          <table>
+            <tr>
+              <td align="left">
+                <label>
+                  PRIORITY:
+                </label>
+              </td>
+              <td colspan="2">
+                <select id="content-form-contact-subject" name="subject">
+                  <option value="LOW_PRIORITY">
+                    LOW PRIORITY
+                  </option>
+                  <option value="MEDIUM_PRIORITY">
+                    MEDIUM PRIORITY
+                  </option>
+                  <option value="HIGH_PRIORITY">
+                    HIGH PRIORITY
+                  </option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top">
+                <label>
+                  MESSAGE:
+                </label>
+              </td>
+              <td colspan="2">
+                <textarea id="content-form-contact-body" name="body" placeholder="Enter a short description of your problem." rows="10" cols="32">
+                </textarea>
+              </td>
+            </tr>
+            <tr>
+              <td>
+              </td>
+              <td>
+                <input type="reset">
+                </input> 
+              </td>
+              <td align="right">
+                <input type="submit">
+                </input>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
     </div>
     <div id="footer" align="center">
       <div id="footer-license">

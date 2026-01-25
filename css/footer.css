@@ -6,3 +6,11 @@ div#footer
   color: #009641;
   background-color: #04920;
 }
+div#footer-license
+{
+  display: block;
+  width: 100%;
+  height: 48px;
+  color: #009641;
+  background-color: #003818;
+}

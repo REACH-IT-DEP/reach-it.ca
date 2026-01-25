@@ -6,11 +6,14 @@ div#footer
   color: #009641;
   background-color: #004920;
 }
+
 div#footer-license
 {
-  display: block;
-  width: 100%;
+  display: inline-block;
+  width: 192px;
+  width: 33%;
   height: 48px;
   color: #009641;
   background-color: #003818;
+  line-height: 48px;
 }

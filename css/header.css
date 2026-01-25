@@ -1,28 +1,32 @@
 #header
 {
-  width: 100px;
-  height: 100px;
+  display: block;
+  width: 100%;
+  height: 48px;
   color: blue;
   background-color: blue;
 }
 #header-home
 {
-  width: 100px;
-  height: 100px;
+  display: inline-block;
+  width: 192px;
+  height: 48px;
   color: green;
   background-color: green;
 }
 #header-home-logo
 {
-  width: 100px;
-  height: 100px;
+  display: inline-block;
+  width: 48px;
+  height: 48px;
   color: red;
   background-color: red;
 }
 #header-home-title
 {
-  width: 100px;
-  height: 100px;
+  display: inline-block;
+  width: 144px;
+  height: 48px;
   color: red;
   background-color: red;
 }

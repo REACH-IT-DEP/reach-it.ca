@@ -1,28 +1,28 @@
 #header
 {
-  width=100px;
-  height=100px;
+  width: 100px;
+  height: 100px;
   color: blue;
   background-color: blue;
 }
 #header-home
 {
-  width=100px;
-  height=100px;
+  width: 100px;
+  height: 100px;
   color: green;
   background-color: green;
 }
 #header-home-logo
 {
-  width=100px;
-  height=100px;
+  width: 100px;
+  height: 100px;
   color: red;
   background-color: red;
 }
 #header-home-title
 {
-  width=100px;
-  height=100px;
+  width: 100px;
+  height: 100px;
   color: red;
   background-color: red;
 }

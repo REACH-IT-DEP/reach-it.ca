@@ -8,3 +8,44 @@
   padding-left: 16px;
   padding-right: 16px;
 }
+
+#content-form-contact-body
+{
+  resize: none;
+}
+
+#content-form-contact-reset
+{
+  color: #888888;
+  background-color: #0A2069;
+}
+
+#content-form-contact-reset:hover
+{
+  color: #888888;
+  background-color: #0C2A8F;
+}
+
+#content-form-contact-reset:active
+{
+  color: #888888;
+  background-color: #041035;
+}
+
+#content-form-contact-submit
+{
+  color: #888888;
+  background-color: #0A2069;
+}
+
+#content-form-contact-submit:hover
+{
+  color: #888888;
+  background-color: #0C2A8F;
+}
+
+#content-form-contact-submit:active
+{
+  color: #888888;
+  background-color: #041035;
+}

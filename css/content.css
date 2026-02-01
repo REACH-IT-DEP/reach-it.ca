@@ -10,3 +10,42 @@ div#content
   color: #888888;
   background-color: #023140;
 }
+
+div#content-top
+{
+  display: block;
+  width: 95%;
+  height: 341px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: #FF8888;
+  background-color: #FF3140;
+}
+
+div#content-mid
+{
+  display: block;
+  width: 95%;
+  height: 341px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: #88FF88;
+  background-color: #02FF40;
+}
+
+div#content-bot
+{
+  display: block;
+  width: 341%;
+  height: 1024px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: #8888FF;
+  background-color: #0231FF;
+}

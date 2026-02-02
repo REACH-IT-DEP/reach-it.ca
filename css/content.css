@@ -25,6 +25,7 @@ div#content-top
 div#content-mid
 {
   display: inline-block;
+  width: 60%;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 48px;

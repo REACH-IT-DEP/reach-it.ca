@@ -14,7 +14,7 @@ div#content
 div#content-top
 {
   display: block;
-  width: 95%;
+  width: parent;
   height: 341px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -26,8 +26,8 @@ div#content-top
 
 div#content-mid
 {
-  display: block;
-  width: 95%;
+  display: inline-block;
+  width: 33%;
   height: 341px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -40,8 +40,8 @@ div#content-mid
 div#content-bot
 {
   display: block;
-  width: 341%;
-  height: 1024px;
+  width: parent;
+  height: 341px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;

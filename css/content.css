@@ -19,7 +19,7 @@ div#content-top
   margin-left: 48px;
   margin-right: 48px;
   padding-top: 48px;
-  color: #888888;
+  color: #CCCCCC;
   background-color: #023140;
 }
 
@@ -31,7 +31,7 @@ div#content-mid
   margin-bottom: 0px;
   margin-left: 48px;
   margin-right: 48px;
-  color: #888888;
+  color: #CCCCCC;
   background-color: #023140;
 }
 
@@ -42,6 +42,6 @@ div#content-bot
   margin-bottom: 0px;
   margin-left: 48px;
   margin-right: 48px;
-  color: #888888;
+  color: #CCCCCC;
   background-color: #023140;
 }

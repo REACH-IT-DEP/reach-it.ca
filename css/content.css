@@ -18,8 +18,8 @@ div#content-top
   margin-bottom: 0px;
   margin-left: 48px;
   margin-right: 48px;
-  color: #FF8888;
-  background-color: #FF3140;
+  color: #888888;
+  background-color: #023140;
 }
 
 div#content-mid
@@ -30,8 +30,8 @@ div#content-mid
   margin-bottom: 0px;
   margin-left: 48px;
   margin-right: 48px;
-  color: #88FF88;
-  background-color: #02FF40;
+  color: #888888;
+  background-color: #023140;
 }
 
 div#content-bot
@@ -41,6 +41,6 @@ div#content-bot
   margin-bottom: 0px;
   margin-left: 48px;
   margin-right: 48px;
-  color: #8888FF;
-  background-color: #0231FF;
+  color: #888888;
+  background-color: #023140;
 }

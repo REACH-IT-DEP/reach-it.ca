@@ -14,12 +14,10 @@ div#content
 div#content-top
 {
   display: block;
-  width: parent;
-  height: 341px;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 48px;
+  margin-right: 48px;
   color: #FF8888;
   background-color: #FF3140;
 }
@@ -27,12 +25,10 @@ div#content-top
 div#content-mid
 {
   display: inline-block;
-  width: 33%;
-  height: 341px;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 48px;
+  margin-right: 48px;
   color: #88FF88;
   background-color: #02FF40;
 }
@@ -40,12 +36,10 @@ div#content-mid
 div#content-bot
 {
   display: block;
-  width: parent;
-  height: 341px;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 48px;
+  margin-right: 48px;
   color: #8888FF;
   background-color: #0231FF;
 }

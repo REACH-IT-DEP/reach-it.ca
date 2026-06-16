@@ -1,5 +1,5 @@
 # reach-it.ca
-REACH-IT-DEP
+REACH-IT
 
 ### COPYRIGHT NOTICE:
 
